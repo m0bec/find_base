@@ -1,1 +1,1 @@
-# find_base
+This code caliculate y^n and find y which is x = y^n
